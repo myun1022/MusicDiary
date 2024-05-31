@@ -1,0 +1,22 @@
+<svg width="270" height="244" viewBox="0 0 270 244" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_2_512)">
+<rect width="270" height="244" rx="25" fill="white" fill-opacity="0.33"/>
+<rect x="0.5" y="0.5" width="269" height="243" rx="24.5" stroke="white" stroke-opacity="0.53"/>
+</g>
+<rect x="34" y="44" width="143" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="44" width="143" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="75" width="108" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="75" width="108" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="104" width="143" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="104" width="143" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="135" width="108" height="10" rx="5" fill="#1F4D4F"/>
+<rect x="34" y="135" width="108" height="10" rx="5" fill="#1F4D4F"/>
+<defs>
+<filter id="filter0_b_2_512" x="-15.7" y="-15.7" width="301.4" height="275.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="7.85"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2_512"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2_512" result="shape"/>
+</filter>
+</defs>
+</svg>
