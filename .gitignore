@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+fastAPIProject/.venv/*
+fastAPIProject/__pycache__/*
+.DS_Store
